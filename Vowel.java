@@ -14,7 +14,7 @@ public class Vowel {
 	}
 		else
 		{
-			System.out.println("the given char is a constant");
+			System.out.println("the given char is a consonant");
 		}
 
 }
